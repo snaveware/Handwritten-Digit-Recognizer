@@ -23,6 +23,8 @@
 8. Boniface Kiplangat    SCII/01358/2018
 9. Dennis Lamaiyan       SCII/02309/2018
 10. Shumi Kulthum        SCII/01345/2018
+11. Antony Oluoch        SCII/00843/2019
+12. Raymond Munene       SCII/00705/2017
  
 
 
