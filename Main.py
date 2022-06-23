@@ -135,5 +135,4 @@ elif loadDefaultModel:
     model = tf.keras.models.load_model('Handwritten_Digits_Recognizer.model')
     predictCustomImages(model)
 
-print('status: ',loadDefaultModel,loadRecentModel,trainNewModel)
 
